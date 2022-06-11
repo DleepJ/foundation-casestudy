@@ -75,7 +75,7 @@
     <distributionManagement>
         <repository>
             <id>libs-snapshot-local</id>
-            <url>http://172.19.7.210:8082/artifactory/libs-snapshot-local/</url>
+            <url>http://172.19.7.210:8082/artifactory/libs-snapshot-local</url>
         </repository>
     </distributionManagement>
 </project>
